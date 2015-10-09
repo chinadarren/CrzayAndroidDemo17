@@ -1,0 +1,12 @@
+<!--扩张BaseAdapter实现不存储列表项的ListView-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+               android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+             >
+
+<ListView
+    android:id="@+id/myist"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"></ListView>
+</LinearLayout>
